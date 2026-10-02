@@ -1,0 +1,12 @@
+artifacts/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+evals/results_*.json
+benchmarks/data/glp1_raw/
+benchmarks/data/glp1_raw_random/
+benchmarks/data/*.pkl
+benchmarks/data/*.rda

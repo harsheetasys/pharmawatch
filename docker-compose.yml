@@ -1,0 +1,40 @@
+# Full stack: Postgres + pipeline job + API + dashboard.
+#   docker compose up --build
+#   API docs  -> http://localhost:8000/docs
+#   Dashboard -> http://localhost:8501
+services:
+  db:
+    image: postgres:16
+    environment: { POSTGRES_USER: pw, POSTGRES_PASSWORD: pw, POSTGRES_DB: pharmawatch }
+    ports: ["5432:5432"]
+    healthcheck: { test: ["CMD-SHELL", "pg_isready -U pw"], interval: 3s, retries: 20 }
+    volumes: [pgdata:/var/lib/postgresql/data]
+
+  pipeline:            # ingest -> train -> index, then exits
+    build: .
+    command: python -m scripts.build_all --source ${PW_DATA_MODE:-synthetic}
+    environment: &env
+      DATABASE_URL: postgresql+psycopg2://pw:pw@db:5432/pharmawatch
+      PW_DATA_MODE: ${PW_DATA_MODE:-synthetic}
+      PW_ARTIFACTS: /artifacts
+      GEMINI_API_KEY: ${GEMINI_API_KEY:-}
+      PW_EMBEDDER: ${PW_EMBEDDER:-tfidf}
+    volumes: [artifacts:/artifacts]
+    depends_on: { db: { condition: service_healthy } }
+
+  api:
+    build: .
+    environment: *env
+    ports: ["8000:8000"]
+    volumes: [artifacts:/artifacts]
+    depends_on: { pipeline: { condition: service_completed_successfully } }
+
+  dashboard:
+    build: .
+    command: streamlit run dashboard/app.py --server.port 8501 --server.address 0.0.0.0
+    environment: *env
+    ports: ["8501:8501"]
+    volumes: [artifacts:/artifacts]
+    depends_on: { pipeline: { condition: service_completed_successfully } }
+
+volumes: { pgdata: {}, artifacts: {} }

@@ -1,0 +1,11 @@
+# One-click deploy on Render (free web service). Uses the Dockerfile, which bakes
+# the synthetic world + model into the image (SQLite inside the container).
+services:
+  - type: web
+    name: pharmawatch-api
+    runtime: docker
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false

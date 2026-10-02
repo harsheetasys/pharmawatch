@@ -1,0 +1,400 @@
+exposureName,outcomeName,groundTruth
+adenosine,OMOP Acute Liver Failure 1,0
+almotriptan,OMOP Acute Liver Failure 1,0
+amylases,OMOP Acute Liver Failure 1,0
+benzocaine,OMOP Acute Liver Failure 1,0
+benzonatate,OMOP Acute Liver Failure 1,0
+cosyntropin,OMOP Acute Liver Failure 1,0
+dicyclomine,OMOP Acute Liver Failure 1,0
+droperidol,OMOP Acute Liver Failure 1,0
+endopeptidases,OMOP Acute Liver Failure 1,0
+ergotamine,OMOP Acute Liver Failure 1,0
+ferrous gluconate,OMOP Acute Liver Failure 1,0
+flavoxate,OMOP Acute Liver Failure 1,0
+fluticasone,OMOP Acute Liver Failure 1,0
+gatifloxacin,OMOP Acute Liver Failure 1,0
+griseofulvin,OMOP Acute Liver Failure 1,0
+hyoscyamine,OMOP Acute Liver Failure 1,0
+ketotifen,OMOP Acute Liver Failure 1,0
+lactulose,OMOP Acute Liver Failure 1,0
+lipase,OMOP Acute Liver Failure 1,0
+lithium citrate,OMOP Acute Liver Failure 1,0
+methenamine,OMOP Acute Liver Failure 1,0
+miconazole,OMOP Acute Liver Failure 1,0
+neostigmine,OMOP Acute Liver Failure 1,0
+oxybutynin,OMOP Acute Liver Failure 1,0
+paromomycin,OMOP Acute Liver Failure 1,0
+penicillin v,OMOP Acute Liver Failure 1,0
+phentermine,OMOP Acute Liver Failure 1,0
+phentolamine,OMOP Acute Liver Failure 1,0
+primidone,OMOP Acute Liver Failure 1,0
+propantheline,OMOP Acute Liver Failure 1,0
+salmeterol,OMOP Acute Liver Failure 1,0
+scopolamine,OMOP Acute Liver Failure 1,0
+sitagliptin,OMOP Acute Liver Failure 1,0
+"sodium phosphate, monobasic",OMOP Acute Liver Failure 1,0
+sucralfate,OMOP Acute Liver Failure 1,0
+tetrahydrocannabinol,OMOP Acute Liver Failure 1,0
+tinidazole,OMOP Acute Liver Failure 1,0
+acarbose,OMOP Acute Renal Failure 1,0
+adenosine,OMOP Acute Renal Failure 1,0
+almotriptan,OMOP Acute Renal Failure 1,0
+amylases,OMOP Acute Renal Failure 1,0
+benzocaine,OMOP Acute Renal Failure 1,0
+benzonatate,OMOP Acute Renal Failure 1,0
+bromfenac,OMOP Acute Renal Failure 1,0
+chlorambucil,OMOP Acute Renal Failure 1,0
+chlorazepate,OMOP Acute Renal Failure 1,0
+clozapine,OMOP Acute Renal Failure 1,0
+cosyntropin,OMOP Acute Renal Failure 1,0
+dacarbazine,OMOP Acute Renal Failure 1,0
+darbepoetin alfa,OMOP Acute Renal Failure 1,0
+darifenacin,OMOP Acute Renal Failure 1,0
+darunavir,OMOP Acute Renal Failure 1,0
+dicyclomine,OMOP Acute Renal Failure 1,0
+disulfiram,OMOP Acute Renal Failure 1,0
+eletriptan,OMOP Acute Renal Failure 1,0
+endopeptidases,OMOP Acute Renal Failure 1,0
+entecavir,OMOP Acute Renal Failure 1,0
+ergotamine,OMOP Acute Renal Failure 1,0
+ferrous gluconate,OMOP Acute Renal Failure 1,0
+flavoxate,OMOP Acute Renal Failure 1,0
+flutamide,OMOP Acute Renal Failure 1,0
+frovatriptan,OMOP Acute Renal Failure 1,0
+gatifloxacin,OMOP Acute Renal Failure 1,0
+griseofulvin,OMOP Acute Renal Failure 1,0
+hyoscyamine,OMOP Acute Renal Failure 1,0
+imipramine,OMOP Acute Renal Failure 1,0
+infliximab,OMOP Acute Renal Failure 1,0
+ketoconazole,OMOP Acute Renal Failure 1,0
+ketotifen,OMOP Acute Renal Failure 1,0
+lactulose,OMOP Acute Renal Failure 1,0
+lipase,OMOP Acute Renal Failure 1,0
+loratadine,OMOP Acute Renal Failure 1,0
+mebendazole,OMOP Acute Renal Failure 1,0
+metaxalone,OMOP Acute Renal Failure 1,0
+methenamine,OMOP Acute Renal Failure 1,0
+methocarbamol,OMOP Acute Renal Failure 1,0
+miconazole,OMOP Acute Renal Failure 1,0
+nelfinavir,OMOP Acute Renal Failure 1,0
+neostigmine,OMOP Acute Renal Failure 1,0
+nortriptyline,OMOP Acute Renal Failure 1,0
+orlistat,OMOP Acute Renal Failure 1,0
+paromomycin,OMOP Acute Renal Failure 1,0
+penicillin v,OMOP Acute Renal Failure 1,0
+phentermine,OMOP Acute Renal Failure 1,0
+phentolamine,OMOP Acute Renal Failure 1,0
+prilocaine,OMOP Acute Renal Failure 1,0
+primidone,OMOP Acute Renal Failure 1,0
+prochlorperazine,OMOP Acute Renal Failure 1,0
+ramelteon,OMOP Acute Renal Failure 1,0
+rizatriptan,OMOP Acute Renal Failure 1,0
+scopolamine,OMOP Acute Renal Failure 1,0
+simethicone,OMOP Acute Renal Failure 1,0
+"sodium phosphate, monobasic",OMOP Acute Renal Failure 1,0
+temazepam,OMOP Acute Renal Failure 1,0
+tetrahydrocannabinol,OMOP Acute Renal Failure 1,0
+thiabendazole,OMOP Acute Renal Failure 1,0
+thiothixene,OMOP Acute Renal Failure 1,0
+tinidazole,OMOP Acute Renal Failure 1,0
+urea,OMOP Acute Renal Failure 1,0
+vitamin a,OMOP Acute Renal Failure 1,0
+zafirlukast,OMOP Acute Renal Failure 1,0
+acarbose,OMOP Acute myocardial Infarction  1,0
+acetazolamide,OMOP Acute myocardial Infarction  1,0
+amylases,OMOP Acute myocardial Infarction  1,0
+benzonatate,OMOP Acute myocardial Infarction  1,0
+bromfenac,OMOP Acute myocardial Infarction  1,0
+chlorambucil,OMOP Acute myocardial Infarction  1,0
+chlorazepate,OMOP Acute myocardial Infarction  1,0
+chlorothiazide,OMOP Acute myocardial Infarction  1,0
+clindamycin,OMOP Acute myocardial Infarction  1,0
+cosyntropin,OMOP Acute myocardial Infarction  1,0
+darifenacin,OMOP Acute myocardial Infarction  1,0
+dicyclomine,OMOP Acute myocardial Infarction  1,0
+didanosine,OMOP Acute myocardial Infarction  1,0
+droperidol,OMOP Acute myocardial Infarction  1,0
+endopeptidases,OMOP Acute myocardial Infarction  1,0
+entecavir,OMOP Acute myocardial Infarction  1,0
+ferrous gluconate,OMOP Acute myocardial Infarction  1,0
+flavoxate,OMOP Acute myocardial Infarction  1,0
+flutamide,OMOP Acute myocardial Infarction  1,0
+fluticasone,OMOP Acute myocardial Infarction  1,0
+gatifloxacin,OMOP Acute myocardial Infarction  1,0
+hyoscyamine,OMOP Acute myocardial Infarction  1,0
+ketoconazole,OMOP Acute myocardial Infarction  1,0
+ketotifen,OMOP Acute myocardial Infarction  1,0
+lactulose,OMOP Acute myocardial Infarction  1,0
+lipase,OMOP Acute myocardial Infarction  1,0
+lithium citrate,OMOP Acute myocardial Infarction  1,0
+loratadine,OMOP Acute myocardial Infarction  1,0
+mebendazole,OMOP Acute myocardial Infarction  1,0
+metaxalone,OMOP Acute myocardial Infarction  1,0
+methenamine,OMOP Acute myocardial Infarction  1,0
+methimazole,OMOP Acute myocardial Infarction  1,0
+methocarbamol,OMOP Acute myocardial Infarction  1,0
+miconazole,OMOP Acute myocardial Infarction  1,0
+nelfinavir,OMOP Acute myocardial Infarction  1,0
+nevirapine,OMOP Acute myocardial Infarction  1,0
+oxybutynin,OMOP Acute myocardial Infarction  1,0
+paromomycin,OMOP Acute myocardial Infarction  1,0
+pemoline,OMOP Acute myocardial Infarction  1,0
+penicillamine,OMOP Acute myocardial Infarction  1,0
+penicillin v,OMOP Acute myocardial Infarction  1,0
+posaconazole,OMOP Acute myocardial Infarction  1,0
+prilocaine,OMOP Acute myocardial Infarction  1,0
+primidone,OMOP Acute myocardial Infarction  1,0
+prochlorperazine,OMOP Acute myocardial Infarction  1,0
+propantheline,OMOP Acute myocardial Infarction  1,0
+ramelteon,OMOP Acute myocardial Infarction  1,0
+salmeterol,OMOP Acute myocardial Infarction  1,0
+scopolamine,OMOP Acute myocardial Infarction  1,0
+simethicone,OMOP Acute myocardial Infarction  1,0
+sitagliptin,OMOP Acute myocardial Infarction  1,0
+"sodium phosphate, monobasic",OMOP Acute myocardial Infarction  1,0
+stavudine,OMOP Acute myocardial Infarction  1,0
+sucralfate,OMOP Acute myocardial Infarction  1,0
+sulfasalazine,OMOP Acute myocardial Infarction  1,0
+sulfisoxazole,OMOP Acute myocardial Infarction  1,0
+temazepam,OMOP Acute myocardial Infarction  1,0
+terbinafine,OMOP Acute myocardial Infarction  1,0
+tetrahydrocannabinol,OMOP Acute myocardial Infarction  1,0
+thiabendazole,OMOP Acute myocardial Infarction  1,0
+thiothixene,OMOP Acute myocardial Infarction  1,0
+tinidazole,OMOP Acute myocardial Infarction  1,0
+tipranavir,OMOP Acute myocardial Infarction  1,0
+urea,OMOP Acute myocardial Infarction  1,0
+vitamin a,OMOP Acute myocardial Infarction  1,0
+zafirlukast,OMOP Acute myocardial Infarction  1,0
+abacavir,HOI Upper GI #3,0
+acarbose,HOI Upper GI #3,0
+adenosine,HOI Upper GI #3,0
+amylases,HOI Upper GI #3,0
+benzocaine,HOI Upper GI #3,0
+benzonatate,HOI Upper GI #3,0
+bromfenac,HOI Upper GI #3,0
+chlorambucil,HOI Upper GI #3,0
+chlorazepate,HOI Upper GI #3,0
+cosyntropin,HOI Upper GI #3,0
+dacarbazine,HOI Upper GI #3,0
+darifenacin,HOI Upper GI #3,0
+dicyclomine,HOI Upper GI #3,0
+disulfiram,HOI Upper GI #3,0
+droperidol,HOI Upper GI #3,0
+endopeptidases,HOI Upper GI #3,0
+entecavir,HOI Upper GI #3,0
+epoetin alfa,HOI Upper GI #3,0
+ergotamine,HOI Upper GI #3,0
+ferrous gluconate,HOI Upper GI #3,0
+fluticasone,HOI Upper GI #3,0
+griseofulvin,HOI Upper GI #3,0
+hyoscyamine,HOI Upper GI #3,0
+itraconazole,HOI Upper GI #3,0
+ketoconazole,HOI Upper GI #3,0
+ketotifen,HOI Upper GI #3,0
+lactulose,HOI Upper GI #3,0
+lamivudine,HOI Upper GI #3,0
+lipase,HOI Upper GI #3,0
+lithium citrate,HOI Upper GI #3,0
+loratadine,HOI Upper GI #3,0
+mebendazole,HOI Upper GI #3,0
+metaxalone,HOI Upper GI #3,0
+methocarbamol,HOI Upper GI #3,0
+miconazole,HOI Upper GI #3,0
+moexipril,HOI Upper GI #3,0
+neostigmine,HOI Upper GI #3,0
+nevirapine,HOI Upper GI #3,0
+nitrofurantoin,HOI Upper GI #3,0
+orlistat,HOI Upper GI #3,0
+oxybutynin,HOI Upper GI #3,0
+paromomycin,HOI Upper GI #3,0
+pemoline,HOI Upper GI #3,0
+penicillin v,HOI Upper GI #3,0
+phentermine,HOI Upper GI #3,0
+phentolamine,HOI Upper GI #3,0
+pioglitazone,HOI Upper GI #3,0
+prilocaine,HOI Upper GI #3,0
+prochlorperazine,HOI Upper GI #3,0
+propantheline,HOI Upper GI #3,0
+ramelteon,HOI Upper GI #3,0
+rosiglitazone,HOI Upper GI #3,0
+salmeterol,HOI Upper GI #3,0
+scopolamine,HOI Upper GI #3,0
+simethicone,HOI Upper GI #3,0
+sitagliptin,HOI Upper GI #3,0
+stavudine,HOI Upper GI #3,0
+sucralfate,HOI Upper GI #3,0
+temazepam,HOI Upper GI #3,0
+terbinafine,HOI Upper GI #3,0
+tetrahydrocannabinol,HOI Upper GI #3,0
+thiabendazole,HOI Upper GI #3,0
+thiothixene,HOI Upper GI #3,0
+tinidazole,HOI Upper GI #3,0
+urea,HOI Upper GI #3,0
+vitamin a,HOI Upper GI #3,0
+zidovudine,HOI Upper GI #3,0
+abacavir,OMOP Acute Liver Failure 1,1
+acetazolamide,OMOP Acute Liver Failure 1,1
+alatrofloxacin,OMOP Acute Liver Failure 1,1
+allopurinol,OMOP Acute Liver Failure 1,1
+bortezomib,OMOP Acute Liver Failure 1,1
+bosentan,OMOP Acute Liver Failure 1,1
+busulfan,OMOP Acute Liver Failure 1,1
+captopril,OMOP Acute Liver Failure 1,1
+carbamazepine,OMOP Acute Liver Failure 1,1
+caspofungin,OMOP Acute Liver Failure 1,1
+celecoxib,OMOP Acute Liver Failure 1,1
+ciprofloxacin,OMOP Acute Liver Failure 1,1
+clozapine,OMOP Acute Liver Failure 1,1
+cyclosporine,OMOP Acute Liver Failure 1,1
+dacarbazine,OMOP Acute Liver Failure 1,1
+darunavir,OMOP Acute Liver Failure 1,1
+didanosine,OMOP Acute Liver Failure 1,1
+diltiazem,OMOP Acute Liver Failure 1,1
+disulfiram,OMOP Acute Liver Failure 1,1
+efavirenz,OMOP Acute Liver Failure 1,1
+enalaprilat,OMOP Acute Liver Failure 1,1
+erythromycin,OMOP Acute Liver Failure 1,1
+etodolac,OMOP Acute Liver Failure 1,1
+felbamate,OMOP Acute Liver Failure 1,1
+fluconazole,OMOP Acute Liver Failure 1,1
+flutamide,OMOP Acute Liver Failure 1,1
+gemcitabine,OMOP Acute Liver Failure 1,1
+gemifloxacin,OMOP Acute Liver Failure 1,1
+ibuprofen,OMOP Acute Liver Failure 1,1
+imatinib,OMOP Acute Liver Failure 1,1
+indomethacin,OMOP Acute Liver Failure 1,1
+infliximab,OMOP Acute Liver Failure 1,1
+interferon beta-1a,OMOP Acute Liver Failure 1,1
+isoniazid,OMOP Acute Liver Failure 1,1
+itraconazole,OMOP Acute Liver Failure 1,1
+ketorolac,OMOP Acute Liver Failure 1,1
+lamivudine,OMOP Acute Liver Failure 1,1
+lamotrigine,OMOP Acute Liver Failure 1,1
+levofloxacin,OMOP Acute Liver Failure 1,1
+lisinopril,OMOP Acute Liver Failure 1,1
+methimazole,OMOP Acute Liver Failure 1,1
+methotrexate,OMOP Acute Liver Failure 1,1
+methyldopa,OMOP Acute Liver Failure 1,1
+moexipril,OMOP Acute Liver Failure 1,1
+naproxen,OMOP Acute Liver Failure 1,1
+nefazodone,OMOP Acute Liver Failure 1,1
+nevirapine,OMOP Acute Liver Failure 1,1
+niacin,OMOP Acute Liver Failure 1,1
+nifedipine,OMOP Acute Liver Failure 1,1
+nitrofurantoin,OMOP Acute Liver Failure 1,1
+norfloxacin,OMOP Acute Liver Failure 1,1
+nortriptyline,OMOP Acute Liver Failure 1,1
+ofloxacin,OMOP Acute Liver Failure 1,1
+orlistat,OMOP Acute Liver Failure 1,1
+oxaprozin,OMOP Acute Liver Failure 1,1
+penicillamine,OMOP Acute Liver Failure 1,1
+pioglitazone,OMOP Acute Liver Failure 1,1
+piroxicam,OMOP Acute Liver Failure 1,1
+posaconazole,OMOP Acute Liver Failure 1,1
+propylthiouracil,OMOP Acute Liver Failure 1,1
+quinapril,OMOP Acute Liver Failure 1,1
+ramipril,OMOP Acute Liver Failure 1,1
+rifampin,OMOP Acute Liver Failure 1,1
+stavudine,OMOP Acute Liver Failure 1,1
+sulfisoxazole,OMOP Acute Liver Failure 1,1
+sulindac,OMOP Acute Liver Failure 1,1
+tamoxifen,OMOP Acute Liver Failure 1,1
+tenofovir,OMOP Acute Liver Failure 1,1
+terbinafine,OMOP Acute Liver Failure 1,1
+thiabendazole,OMOP Acute Liver Failure 1,1
+thioguanine,OMOP Acute Liver Failure 1,1
+tipranavir,OMOP Acute Liver Failure 1,1
+tolcapone,OMOP Acute Liver Failure 1,1
+tolmetin,OMOP Acute Liver Failure 1,1
+trandolapril,OMOP Acute Liver Failure 1,1
+trovafloxacin,OMOP Acute Liver Failure 1,1
+valproate,OMOP Acute Liver Failure 1,1
+voriconazole,OMOP Acute Liver Failure 1,1
+zafirlukast,OMOP Acute Liver Failure 1,1
+zalcitabine,OMOP Acute Liver Failure 1,1
+zidovudine,OMOP Acute Liver Failure 1,1
+acyclovir,OMOP Acute Renal Failure 1,1
+allopurinol,OMOP Acute Renal Failure 1,1
+candesartan,OMOP Acute Renal Failure 1,1
+capreomycin,OMOP Acute Renal Failure 1,1
+captopril,OMOP Acute Renal Failure 1,1
+chlorothiazide,OMOP Acute Renal Failure 1,1
+cyclosporine,OMOP Acute Renal Failure 1,1
+diflunisal,OMOP Acute Renal Failure 1,1
+enalaprilat,OMOP Acute Renal Failure 1,1
+etodolac,OMOP Acute Renal Failure 1,1
+fenoprofen,OMOP Acute Renal Failure 1,1
+hydrochlorothiazide,OMOP Acute Renal Failure 1,1
+ibuprofen,OMOP Acute Renal Failure 1,1
+ketoprofen,OMOP Acute Renal Failure 1,1
+ketorolac,OMOP Acute Renal Failure 1,1
+lisinopril,OMOP Acute Renal Failure 1,1
+mefenamate,OMOP Acute Renal Failure 1,1
+meloxicam,OMOP Acute Renal Failure 1,1
+moexipril,OMOP Acute Renal Failure 1,1
+naproxen,OMOP Acute Renal Failure 1,1
+olmesartan medoxomil,OMOP Acute Renal Failure 1,1
+oxaprozin,OMOP Acute Renal Failure 1,1
+piroxicam,OMOP Acute Renal Failure 1,1
+telmisartan,OMOP Acute Renal Failure 1,1
+almotriptan,OMOP Acute myocardial Infarction  1,1
+amlodipine,OMOP Acute myocardial Infarction  1,1
+amoxapine,OMOP Acute myocardial Infarction  1,1
+bromocriptine,OMOP Acute myocardial Infarction  1,1
+darbepoetin alfa,OMOP Acute myocardial Infarction  1,1
+desipramine,OMOP Acute myocardial Infarction  1,1
+diflunisal,OMOP Acute myocardial Infarction  1,1
+dipyridamole,OMOP Acute myocardial Infarction  1,1
+eletriptan,OMOP Acute myocardial Infarction  1,1
+enalaprilat,OMOP Acute myocardial Infarction  1,1
+epoetin alfa,OMOP Acute myocardial Infarction  1,1
+estradiol,OMOP Acute myocardial Infarction  1,1
+"estrogens, conjugated (usp)",OMOP Acute myocardial Infarction  1,1
+estropipate,OMOP Acute myocardial Infarction  1,1
+etodolac,OMOP Acute myocardial Infarction  1,1
+factor viia,OMOP Acute myocardial Infarction  1,1
+fenoprofen,OMOP Acute myocardial Infarction  1,1
+flurbiprofen,OMOP Acute myocardial Infarction  1,1
+frovatriptan,OMOP Acute myocardial Infarction  1,1
+imipramine,OMOP Acute myocardial Infarction  1,1
+indomethacin,OMOP Acute myocardial Infarction  1,1
+ketoprofen,OMOP Acute myocardial Infarction  1,1
+ketorolac,OMOP Acute myocardial Infarction  1,1
+moexipril,OMOP Acute myocardial Infarction  1,1
+nabumetone,OMOP Acute myocardial Infarction  1,1
+naratriptan,OMOP Acute myocardial Infarction  1,1
+nifedipine,OMOP Acute myocardial Infarction  1,1
+nortriptyline,OMOP Acute myocardial Infarction  1,1
+oxaprozin,OMOP Acute myocardial Infarction  1,1
+piroxicam,OMOP Acute myocardial Infarction  1,1
+rizatriptan,OMOP Acute myocardial Infarction  1,1
+salsalate,OMOP Acute myocardial Infarction  1,1
+sulindac,OMOP Acute myocardial Infarction  1,1
+sumatriptan,OMOP Acute myocardial Infarction  1,1
+tolmetin,OMOP Acute myocardial Infarction  1,1
+zolmitriptan,OMOP Acute myocardial Infarction  1,1
+citalopram,HOI Upper GI #3,1
+clindamycin,HOI Upper GI #3,1
+clopidogrel,HOI Upper GI #3,1
+diflunisal,HOI Upper GI #3,1
+escitalopram,HOI Upper GI #3,1
+etodolac,HOI Upper GI #3,1
+fenoprofen,HOI Upper GI #3,1
+fluoxetine,HOI Upper GI #3,1
+flurbiprofen,HOI Upper GI #3,1
+ibuprofen,HOI Upper GI #3,1
+indomethacin,HOI Upper GI #3,1
+ketoprofen,HOI Upper GI #3,1
+ketorolac,HOI Upper GI #3,1
+mefenamate,HOI Upper GI #3,1
+meloxicam,HOI Upper GI #3,1
+nabumetone,HOI Upper GI #3,1
+naproxen,HOI Upper GI #3,1
+oxaprozin,HOI Upper GI #3,1
+piroxicam,HOI Upper GI #3,1
+potassium chloride,HOI Upper GI #3,1
+sertraline,HOI Upper GI #3,1
+sulindac,HOI Upper GI #3,1
+tolmetin,HOI Upper GI #3,1
+valdecoxib,HOI Upper GI #3,1
